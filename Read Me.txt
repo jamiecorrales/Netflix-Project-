@@ -1,0 +1,2 @@
+This project was a guideded exercise through Datacamp. Please
+refer to https://jamiecorrales.github.io/ for my notes on this project.
